@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f6d6d24a-a2e7-49e7-903b-b918a7317896" name="alicloudToDoList">
+        <fileTransfer accessType="SFTP" host="47.94.195.58" port="22" sshConfigId="cbdf6d47-b19b-46f4-a3c4-d3f076b26629" sshConfig="root@47.94.195.58:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
